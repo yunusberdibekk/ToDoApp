@@ -1,5 +1,5 @@
 # ToDoApp
-
+ToDoApp is a delightfully simple yet powerful task manager and to-do list app.
 ## Built With
 
 - [Swift](https://developer.apple.com/swift/)
